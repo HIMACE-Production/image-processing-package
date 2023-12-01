@@ -16,6 +16,11 @@
     "Image",
     "Processing"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HIMACE-Production/image-processing-package"
+  },
+  "homepage": "https://github.com/HIMACE-Production/image-processing-package",
   "author": "HIMACE",
   "license": "MIT",
   "devDependencies": {
